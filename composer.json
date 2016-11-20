@@ -13,8 +13,11 @@
             "url": "http://tgm:tgmtgmtgm@git.veitac.com/weitac/package-portal.git"
         }
     ],
-    "require": {
-          "cdv/portal": "dev-master"
+    "require-dev": {
+"monolog/monolog": "1.2.*", 
+        "cdv/portal": "dev-master"
+    },
+    "require": {    
     },
     "autoload": {
         "psr-4": {
