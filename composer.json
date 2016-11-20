@@ -14,7 +14,6 @@
         }
     ],
     "require-dev": {
-"monolog/monolog": "1.2.*", 
         "cdv/portal": "dev-master"
     },
     "require": {    
