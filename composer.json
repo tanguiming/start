@@ -11,13 +11,6 @@
         {
             "type": "git",
             "url": "http://tgm:tgmtgmtgm@git.veitac.com/weitac/package-portal.git"
-        },
-        {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        },
-        {
-            "packagist": false
         }
     ],
     "require": {
