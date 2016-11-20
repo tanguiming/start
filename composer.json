@@ -7,8 +7,23 @@
             "email": "tanguiming@163.com"
         }
     ],
-    "require": {},
-        "autoload": {
+    "repositories": [
+        {
+            "type": "git",
+            "url": "http://tgm:tgmtgmtgm@git.veitac.com/weitac/package-portal.git"
+        },
+        {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        },
+        {
+            "packagist": false
+        }
+    ],
+    "require": {
+          "cdv/portal": "dev-master"
+    },
+    "autoload": {
         "psr-4": {
             "Tgm\\Start\\": "src/"
         }
