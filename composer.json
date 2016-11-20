@@ -10,14 +10,14 @@
     "repositories": [
         {
             "type": "git",
-            "url": "http://tgm:tgmtgmtgm@git.veitac.com/weitac/package-portal.git"
+            "url": "https://github.com/tanguiming/smail.git"
         }
     ],
     "require-dev": {
        
     },
     "require": {    
-         "cdv/portal": "dev-master"
+         "test/smail": "dev-master"
     },
     "autoload": {
         "psr-4": {
