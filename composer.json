@@ -14,9 +14,10 @@
         }
     ],
     "require-dev": {
-        "cdv/portal": "dev-master"
+       
     },
     "require": {    
+         "cdv/portal": "dev-master"
     },
     "autoload": {
         "psr-4": {
