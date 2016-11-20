@@ -10,14 +10,14 @@
     "repositories": [
         {
             "type": "git",
-            "url": "http://tgm:tgmtgmtgm@git.veitac.com/weitac/package-portal.git"
+            "url": "http://tgm:tgmtgmtgm@git.veitac.com/weitac2-0/package-weixin-signin.git"
         }
     ],
     "require-dev": {
        
     },
     "require": {    
-         "cdv/portal": "dev-master"
+         "cdv/signin": "dev-master"
     },
     "autoload": {
         "psr-4": {
