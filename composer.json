@@ -1,5 +1,5 @@
 {
-    "name": "tgm/start",
+    "name": "weitac/start",
     "description": "all app start",
     "authors": [
         {
@@ -7,21 +7,13 @@
             "email": "tanguiming@163.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/tanguiming/smail.git"
-        }
-    ],
     "require-dev": {
-       
     },
     "require": {    
-         "test/smail": "dev-master"
     },
     "autoload": {
         "psr-4": {
-            "Tgm\\Start\\": "src/"
+            "Weitac\\Start\\": "src/"
         }
     }
 }

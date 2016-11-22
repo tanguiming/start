@@ -1,8 +1,8 @@
 <?php
 
-namespace Tgm\Start;
+namespace Weitac\Start;
 
-use Laravel\Lumen\Application as App;
+use Illuminate\Foundation\Application as App;
 
 class Application extends App{
 
